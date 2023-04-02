@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7362924829",
+    "project_id": "fir-authall-cc6a6",
+    "storage_bucket": "fir-authall-cc6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7362924829:android:92e1365d275dc81cd0d1f4",
+        "android_client_info": {
+          "package_name": "com.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7362924829-stt2kpvklc5ep644h9gl4vjdkihf3j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-k68ZJ1g_k-FQwjwjSf8wVRR42zyfMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7362924829-stt2kpvklc5ep644h9gl4vjdkihf3j1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
